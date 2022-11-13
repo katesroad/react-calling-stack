@@ -6,3 +6,4 @@
 2. useEffect clean up flow
    1. initial: jsx - useEffect: from child -> parent
    2. rerender: jsx - cleanup(child -> parent) -> useEffect(child ->parent)
+3. ref value (created via useRef) bind, happens after after commit
